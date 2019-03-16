@@ -1,2 +1,2 @@
 # FlyBall
-![alt-text](https://github.com/Papeel/PIANO-PLUS-LIGHT/blob/master/gg.gif)
+![alt-text](https://github.com/Papeel/FlyBall/blob/master/g.gif)
